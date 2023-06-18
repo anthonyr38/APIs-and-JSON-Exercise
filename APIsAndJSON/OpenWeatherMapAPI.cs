@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace APIsAndJSON
 {
-    internal class OpenWeatherMapAPI
+    public class OpenWeatherMapAPI
     {
     }
 }
